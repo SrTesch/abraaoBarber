@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    gap: 150px;
+    background-image: url();
+    align-items: center;
+    height: 70vh;
+}
+
+.textos{
+    display: block;
+}
+
+body{
+    background-color: #141414;
+    color: white;
+}
